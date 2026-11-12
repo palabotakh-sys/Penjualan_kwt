@@ -1,0 +1,1998 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 5066 >>
+stream
+q
+0.950 0.990 0.960 rg
+0.120 0.650 0.300 RG
+1.5 w
+45.00 681.89 505.28 105.00 re B
+Q
+q
+0.120 0.650 0.300 RG
+5 w
+45.00 681.89 m 45.00 786.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.550 0.250 rg
+60.00 768.89 Td
+(LAPORAN TUGAS BESAR & REKAYASA ULANG SISTEM PERANGKAT LUNAK) Tj
+ET
+BT
+/F2 13.5 Tf
+0.060 0.350 0.150 rg
+60.00 750.89 Td
+(Sistem Informasi Penjualan Produk Sayuran Berbasis Web) Tj
+ET
+BT
+/F2 10.5 Tf
+0.200 0.250 0.300 rg
+60.00 734.89 Td
+(Kelompok Wanita Tani \(KWT\) Ariyad Jaya Desa Purwodadi, Trimurjo) Tj
+ET
+BT
+/F1 8.0 Tf
+0.350 0.400 0.450 rg
+60.00 719.89 Td
+(Acuan Rujukan: Skripsi Jamaludin \(NPM: 19430030\) - Program Studi S1 Ilmu Komputer, UM Metro) Tj
+ET
+BT
+/F2 8.0 Tf
+0.150 0.500 0.250 rg
+60.00 705.89 Td
+(Teknologi: Laravel 12 \(PHP 8.2\) | SQLite / MySQL | Tailwind CSS | QRIS Dynamic EMVCo) Tj
+ET
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 665.89 Td
+(BAB I. PENDAHULUAN & ANALISIS SITUASI MITRA) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 660.89 m 550.28 660.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 635.89 Td
+(Kelompok Wanita Tani \(KWT\) Ariyad Jaya berlokasi di Dusun 1 Desa Purwodadi, Kecamatan Trimurjo,) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 622.89 Td
+(Kabupaten Lampung Tengah. Berdiri sejak awal tahun 2022 di bawah kepemimpinan Ibu Sumini dengan jumlah) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 609.89 Td
+(anggota 44 orang. Kelompok ini mengelola lahan pertanian produktif yang memproduksi beragam komoditas) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 596.89 Td
+(hortikultura segar seperti tomat, sawi, terong, cabai, kacang panjang, dan aneka bumbu dapur.) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 584.89 Td
+(1.1 Identifikasi Masalah Pokok \(Sesuai Bab I Dokumen Skripsi\)) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 559.89 Td
+(Berdasarkan hasil observasi lapangan dan wawancara pada dokumen skripsi acuan \(Jamaludin, 2024, hlm.) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 546.89 Td
+(1-3\), ditemukan 3 kendala utama yang menghambat kemajuan organisasi:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 529.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 529.89 Td
+(1. Keterbatasan Distribusi Informasi Produk & Panen: Anggota kelompok tani belum memiliki sarana) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 516.89 Td
+(terpusat untuk memantau data ketersediaan stok produk, jadwal panen yang siap dipasarkan, maupun) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 503.89 Td
+(rekapan transaksi penjualan harian.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 487.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 487.89 Td
+(2. Kerancuan Pembukuan Kas \(Masalah Krusial\): Dana kas perputaran hasil penjualan sayuran masih) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 474.89 Td
+(tercampur baur dengan kas iuran rutin bulanan anggota. Hal ini mengakibatkan kesulitan dalam) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 461.89 Td
+(menghitung profitabilitas nyata hasil panen kelompok dan rentan memicu selisih pencatatan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 448.89 Td
+(bendahara.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 432.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 432.89 Td
+(3. Metode Pembayaran Terbatas & Belum Otomatis: Transaksi pemesanan dilakukan secara manual dan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 419.89 Td
+(pembeli hanya mentransfer ke rekening tertentu tanpa adanya verifikasi nominal otomatis, sehingga) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 406.89 Td
+(menyulitkan pembeli e-wallet/QRIS.) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 395.89 Td
+(1.2 Rumusan Masalah & Tujuan Rekayasa Ulang) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 370.89 Td
+(Proyek ini merekayasa ulang sistem informasi menjadi aplikasi web berbasis Laravel 12 dengan tujuan:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 353.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 353.89 Td
+(- Normalisasi Basis Data: Menata ulang arsitektur basis data relasional memenuhi kaidah 1NF) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 340.89 Td
+(hingga 3NF.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 324.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 324.89 Td
+(- Pemisahan Kas Terstruktur: Mengotomatisasi pencatatan jurnal kas penjualan saat order) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 311.89 Td
+(disetujui, terpisah dari kas iuran.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 295.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 295.89 Td
+(- Inovasi QRIS Dinamis: Menyediakan pembayaran QRIS otomatis sesuai nominal invoice tanpa biaya) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 282.89 Td
+(gateway pihak ketiga.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 266.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 266.89 Td
+(- Multi-Role RBAC: Menyediakan hak akses terisolasi untuk Ketua, Bendahara, Anggota, dan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 253.89 Td
+(Customer.) Tj
+ET
+BT
+/F1 8 Tf
+0.5 0.5 0.5 rg
+45.00 30.00 Td
+(Dokumen Spesifikasi Teknis KWT Ariyad Jaya - Halaman 1 dari 5) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 6699 >>
+stream
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 781.89 Td
+(BAB II. EVALUASI ERD LAMA & NORMALISASI BASIS DATA \(1NF - 3NF\)) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 776.89 m 550.28 776.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 751.89 Td
+(Pada dokumen skripsi halaman 49 \(Gambar 21\), Entity Relationship Diagram \(ERD\) lama memiliki beberapa) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 738.89 Td
+(kelemahan fundamental yang melanggar kaidah normalisasi database relasional:) Tj
+ET
+q
+0.920 0.950 0.980 rg
+0.700 0.750 0.800 RG
+0.7 w
+45.00 716.89 505.28 18.00 re B
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+50.00 722.89 Td
+(Tingkat Normalisasi) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+156.16 716.89 m 156.16 734.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+161.16 722.89 Td
+(Kelemahan ERD Lama \(Gambar 21 Skripsi\)) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+353.22 716.89 m 353.22 734.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+358.22 722.89 Td
+(Solusi Desain Ternormalisasi \(Sistem Baru\)) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 698.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 704.89 Td
+(Bentuk Normal 1 \(1NF\)) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+156.16 698.89 m 156.16 716.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+161.16 704.89 Td
+(Tabel produk memiliki atribut berulang: g) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+353.22 698.89 m 353.22 716.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+358.22 704.89 Td
+(Menerapkan keatomikan data. Gambar utama ) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 680.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 686.89 Td
+(Bentuk Normal 2 \(2NF\)) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+156.16 680.89 m 156.16 698.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+161.16 686.89 Td
+(Kolom 'qty' disimpan di tabel transaksi u) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+353.22 680.89 m 353.22 698.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+358.22 686.89 Td
+(Memisahkan tabel transaksi menjadi 'order) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 662.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 668.89 Td
+(Bentuk Normal 3 \(3NF\)) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+156.16 662.89 m 156.16 680.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+161.16 668.89 Td
+(Tabel keranjang menyimpan harga satuan, t) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+353.22 662.89 m 353.22 680.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+358.22 668.89 Td
+(Menghilangkan redundansi kalkulasi; harga) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 644.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 650.89 Td
+(Pemisahan Kas \(Bab I\)) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+156.16 644.89 m 156.16 662.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+161.16 650.89 Td
+(Tidak tersedia entitas kas; omzet panen d) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+353.22 644.89 m 353.22 662.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+358.22 650.89 Td
+(Menambahkan tabel 'cash_mutations' dengan) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 626.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 632.89 Td
+(Standarisasi Entitas) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+156.16 626.89 m 156.16 644.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+161.16 632.89 Td
+(Inkonsistensi nama: cart_castamer, tbl_cu) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+353.22 626.89 m 353.22 644.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+358.22 632.89 Td
+(Standarisasi konvensi Laravel: users, pro) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 602.89 Td
+(2.1 Kamus Data 9 Tabel Relasional Ternormalisasi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 577.89 Td
+(Aplikasi baru mengimplementasikan 9 tabel relasional terstruktur yang saling terhubung melalui relasi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 564.89 Td
+(Primary Key - Foreign Key:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 547.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 547.89 Td
+(1. users \(id, name, email, password, phone_number, address, role\): Pengguna sistem multi-role) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 534.89 Td
+(\(ketua, bendahara, anggota, customer\).) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 518.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 518.89 Td
+(2. categories \(id, name, slug, description\): Klasifikasi sayuran \(Sayuran Buah, Sayuran Daun,) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 505.89 Td
+(Bumbu Dapur, dll\).) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 489.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 489.89 Td
+(3. products \(id, category_id, name, slug, description, price, stock, unit, image, is_active\):) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 476.89 Td
+(Katalog sayur segar.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 460.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 460.89 Td
+(4. payment_methods \(id, bank_name, account_number, account_holder, is_active\): Rekening resmi KWT) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 447.89 Td
+(tujuan transfer.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 431.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 431.89 Td
+(5. cart_items \(id, user_id, product_id, quantity\): Penyimpanan keranjang belanja pelanggan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 418.89 Td
+(sementara.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 402.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 402.89 Td
+(6. orders \(id, order_code, user_id, payment_method_id, total_amount, shipping_address,) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 389.89 Td
+(customer_phone, payment_status, order_status, payment_proof\): Nota utama transaksi.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 373.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 373.89 Td
+(7. order_items \(id, order_id, product_id, quantity, unit_price, subtotal\): Detail rincian aneka) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 360.89 Td
+(sayur yang dibeli per nota.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 344.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 344.89 Td
+(8. cash_mutations \(id, order_id, recorded_by, transaction_type, amount, category, description,) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 331.89 Td
+(transaction_date\): Jurnal kas akuntansi kelompok.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 315.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 315.89 Td
+(9. settings \(id, key, value\): Konfigurasi dinamis \(string QRIS merchant statis, active status,) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 302.89 Td
+(nama toko\).) Tj
+ET
+BT
+/F1 8 Tf
+0.5 0.5 0.5 rg
+45.00 30.00 Td
+(Dokumen Spesifikasi Teknis KWT Ariyad Jaya - Halaman 2 dari 5) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+11 0 obj
+<< /Length 4246 >>
+stream
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 781.89 Td
+(BAB III. ARSITEKTUR PERANGKAT LUNAK & INOVASI TEKNOLOGI) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 776.89 m 550.28 776.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 751.89 Td
+(Sistem dibangun mengacu pada pola perancangan MVC \(Model-View-Controller\) dengan fondasi teknologi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 738.89 Td
+(Laravel 12 dan PHP 8.2. Seluruh tampilan dirancang responsif menggunakan Tailwind CSS CDN dengan palet) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 725.89 Td
+(warna hijau agrikultur \(Emerald\) yang merepresentasikan citra produk pangan organik pedesaan.) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 713.89 Td
+(3.1 Inovasi Fitur 1: Payment Gateway QRIS Dinamis \(EMVCo Engine Mandiri\)) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 688.89 Td
+(Untuk memfasilitasi transaksi non-tunai yang praktis bagi pembeli di era digital tanpa membebani kas) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 675.89 Td
+(KWT dengan biaya registrasi gateway pihak ketiga \(seperti Midtrans/Xendit\), sistem dilengkapi modul) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 662.89 Td
+(konversi EMVCo QRIS mandiri \(QrisService.php\):) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 645.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 645.89 Td
+(- Standar Nasional EMVCo / Bank Indonesia: String QRIS tersusun atas format Tag-Length-Value) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 632.89 Td
+(\(TLV\).) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 616.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 616.89 Td
+(- Konversi Indikator Statis ke Dinamis: Tag 01 diubah dari '010211' \(Statis\) menjadi '010212') Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 603.89 Td
+(\(Dinamis\).) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 587.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 587.89 Td
+(- Injeksi Nominal Presisi \(Tag 54\): Saat nota dibuat, nominal pesanan otomatis disisipkan ke Tag) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 574.89 Td
+(54 di antara Tag Mata Uang \(5303360\) dan Tag Negara \(5802ID\). Pembeli yang memindai QR tidak) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 561.89 Td
+(perlu mengetik nominal lagi.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 545.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 545.89 Td
+(- Rekalkulasi Checksum CRC16-CCITT: Sistem menghitung ulang kode integritas 4-karakter) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 532.89 Td
+(heksadesimal pada Tag 63 secara matematis sehingga QR Code valid dipindai oleh semua aplikasi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 519.89 Td
+(bank dan e-wallet di Indonesia.) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 508.89 Td
+(3.2 Inovasi Fitur 2: Otomatisasi Pemisahan Kas \(Solusi Inti Bab I Skripsi\)) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 483.89 Td
+(Sistem menjamin transparansi akuntansi kelompok tani dengan aturan bisnis terotomasi:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 466.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 466.89 Td
+(- Arus Kas Masuk Otomatis: Saat pesanan diverifikasi oleh Bendahara \(status: paid\), sistem secara) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 453.89 Td
+(otomatis mencatat mutasi pemasukan pada tabel cash_mutations dengan kategori 'penjualan_produk'.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 437.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 437.89 Td
+(- Pencatatan Kas Iuran & Operasional: Bendahara memiliki formulir khusus untuk mencatat iuran) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 424.89 Td
+(bulanan anggota \(iuran_anggota\) atau pengeluaran bibit/pupuk \(operasional\) tanpa tercampur dengan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 411.89 Td
+(saldo penjualan.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 395.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 395.89 Td
+(- Dashboard Transparansi: Ketua dan Bendahara memiliki widget terpisah yang membedakan total) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 382.89 Td
+(omzet penjualan bersih dengan kas cadangan kas iuran kelompok.) Tj
+ET
+BT
+/F1 8 Tf
+0.5 0.5 0.5 rg
+45.00 30.00 Td
+(Dokumen Spesifikasi Teknis KWT Ariyad Jaya - Halaman 3 dari 5) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 11 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+13 0 obj
+<< /Length 11364 >>
+stream
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 781.89 Td
+(BAB IV. HASIL PENGUJIAN SISTEM \(BLACK BOX TESTING\)) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 776.89 m 550.28 776.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 751.89 Td
+(Pengujian fungsionalitas sistem dilakukan menyeluruh menggunakan metode Black Box Testing:) Tj
+ET
+q
+0.920 0.950 0.980 rg
+0.700 0.750 0.800 RG
+0.7 w
+45.00 729.89 505.28 18.00 re B
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+50.00 735.89 Td
+(No) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+70.26 729.89 m 70.26 747.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+75.26 735.89 Td
+(Skenario Uji) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+186.48 729.89 m 186.48 747.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+191.48 735.89 Td
+(Prosedur / Input Pengujian) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+338.06 729.89 m 338.06 747.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+343.06 735.89 Td
+(Hasil yang Diharapkan) Tj
+ET
+q
+0.700 0.750 0.800 RG
+0.5 w
+489.65 729.89 m 489.65 747.89 l S
+Q
+BT
+/F2 8.5 Tf
+0.100 0.150 0.200 rg
+494.65 735.89 Td
+(Status) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 711.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 717.89 Td
+(1) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 711.89 m 70.26 729.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 717.89 Td
+(Autentikasi Multi-Role) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 711.89 m 186.48 729.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 717.89 Td
+(Login ketua, bendahara, anggota) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 711.89 m 338.06 729.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 717.89 Td
+(Akses halaman sesuai hak peran ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 711.89 m 489.65 729.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 717.89 Td
+(BERHASIL) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 693.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 699.89 Td
+(2) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 693.89 m 70.26 711.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 699.89 Td
+(Pemesanan Multi-Item) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 693.89 m 186.48 711.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 699.89 Td
+(Checkout 3 jenis sayuran dalam ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 693.89 m 338.06 711.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 699.89 Td
+(Tercatat di orders & 3 baris or) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 693.89 m 489.65 711.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 699.89 Td
+(BERHASIL) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 675.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 681.89 Td
+(3) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 675.89 m 70.26 693.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 681.89 Td
+(Generasi QRIS Dinamis) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 675.89 m 186.48 693.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 681.89 Td
+(Buka pesanan unpaid senilai Rp ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 675.89 m 338.06 693.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 681.89 Td
+(QR Code otomatis bernominal Rp ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 675.89 m 489.65 693.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 681.89 Td
+(BERHASIL) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 657.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 663.89 Td
+(4) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 657.89 m 70.26 675.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 663.89 Td
+(Unggah Bukti Bayar) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 657.89 m 186.48 675.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 663.89 Td
+(Upload struk transfer / screens) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 657.89 m 338.06 675.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 663.89 Td
+(Status pesanan berubah menjadi ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 657.89 m 489.65 675.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 663.89 Td
+(BERHASIL) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 639.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 645.89 Td
+(5) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 639.89 m 70.26 657.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 645.89 Td
+(Verifikasi Bendahara) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 639.89 m 186.48 657.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 645.89 Td
+(Bendahara klik tombol konfirmas) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 639.89 m 338.06 657.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 645.89 Td
+(Status menjadi 'paid' & potong ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 639.89 m 489.65 657.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 645.89 Td
+(BERHASIL) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 621.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 627.89 Td
+(6) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 621.89 m 70.26 639.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 627.89 Td
+(Pencatatan Kas Otomatis) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 621.89 m 186.48 639.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 627.89 Td
+(Approval pesanan berhasil) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 621.89 m 338.06 639.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 627.89 Td
+(Arus kas penjualan tercatat di ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 621.89 m 489.65 639.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 627.89 Td
+(BERHASIL) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 603.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 609.89 Td
+(7) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 603.89 m 70.26 621.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 609.89 Td
+(Input Iuran Anggota) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 603.89 m 186.48 621.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 609.89 Td
+(Bendahara catat iuran kas Rp 50) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 603.89 m 338.06 621.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 609.89 Td
+(Tercatat pada kategori iuran_an) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 603.89 m 489.65 621.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 609.89 Td
+(BERHASIL) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 585.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 591.89 Td
+(8) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 585.89 m 70.26 603.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 591.89 Td
+(Konfigurasi QRIS Toko) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 585.89 m 186.48 603.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 591.89 Td
+(Admin ganti string QRIS DANA Bi) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 585.89 m 338.06 603.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 591.89 Td
+(QR invoice pelanggan terupdate ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 585.89 m 489.65 603.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 591.89 Td
+(BERHASIL) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 567.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 573.89 Td
+(9) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 567.89 m 70.26 585.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 573.89 Td
+(Pencegahan Layar 419) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 567.89 m 186.48 585.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 573.89 Td
+(Form login dibiarkan idle lama) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 567.89 m 338.06 585.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 573.89 Td
+(Auto-recovery CSRF token tanpa ) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 567.89 m 489.65 585.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 573.89 Td
+(BERHASIL) Tj
+ET
+q
+0.970 0.980 0.990 rg
+0.800 0.820 0.850 RG
+0.5 w
+45.00 549.89 505.28 18.00 re B
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+50.00 555.89 Td
+(10) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+70.26 549.89 m 70.26 567.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+75.26 555.89 Td
+(Cetak Laporan PDF) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+186.48 549.89 m 186.48 567.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+191.48 555.89 Td
+(Filter rentang tanggal & klik c) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+338.06 549.89 m 338.06 567.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+343.06 555.89 Td
+(Rekapitulasi penjualan resmi si) Tj
+ET
+q
+0.800 0.820 0.850 RG
+0.5 w
+489.65 549.89 m 489.65 567.89 l S
+Q
+BT
+/F1 8.0 Tf
+0.150 0.150 0.150 rg
+494.65 555.89 Td
+(BERHASIL) Tj
+ET
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 518.89 Td
+(BAB V. PANDUAN AKSES REPOSITORI GITHUB & AKUN PENGUJIAN) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 513.89 m 550.28 513.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 488.89 Td
+(Seluruh kode sumber proyek telah ditata mengikuti standar arsitektur Laravel dan siap dinilai:) Tj
+ET
+q
+0.940 0.990 0.950 rg
+0.200 0.700 0.300 RG
+1 w
+45.00 340.89 505.28 144.00 re B
+Q
+q
+0.200 0.700 0.300 RG
+4 w
+45.00 340.89 m 45.00 484.89 l S
+Q
+BT
+/F2 9.5 Tf
+0.200 0.700 0.300 rg
+57.00 470.89 Td
+(KREDENSIAL AKUN DEMO PENGUJIAN DOSEN \(Password Semua Akun: 'password'\):) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 454.89 Td
+(1. Ketua KWT     : ketua@ariyadjaya.com     \(Hak: Dashboard Statistik, Kelola Produk,) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 442.89 Td
+(User, Laporan\)) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 428.89 Td
+(2. Bendahara KWT : bendahara@ariyadjaya.com \(Hak: Verifikasi Struk, Pemisahan Kas) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 416.89 Td
+(Penjualan vs Iuran, QRIS Gateway\)) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 402.89 Td
+(3. Anggota KWT   : anggota@ariyadjaya.com   \(Hak: Katalog Produk dan Pantau) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 390.89 Td
+(Transparansi Kas Panen\)) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 376.89 Td
+(4. Pembeli       : pembeli@gmail.com       \(Hak: Belanja Sayuran, Keranjang,) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 364.89 Td
+(Checkout, Bayar via QRIS\)) Tj
+ET
+BT
+/F2 11 Tf
+0.120 0.200 0.300 rg
+45.00 346.89 Td
+(5.1 Petunjuk Menjalankan Proyek dari GitHub) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 321.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 321.89 Td
+(1. Clone Repositori: git clone <url-repo-github> atau ekstrak arsip file proyek.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 305.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 305.89 Td
+(2. Setup Dependensi: Jalankan 'composer install' jika folder vendor belum ada.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 289.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 289.89 Td
+(3. Konfigurasi File .env: Salin .env.example menjadi .env, lalu jalankan 'php artisan) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 276.89 Td
+(key:generate'.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 260.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 260.89 Td
+(4. Migrasi & Data Seeder: Jalankan 'php artisan migrate:fresh --seed' untuk menginisialisasi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 247.89 Td
+(database & akun.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 231.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 231.89 Td
+(5. Menjalankan Website: Klik 2x 'jalankan_website.bat' atau ketik 'php artisan serve' lalu buka) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 218.89 Td
+(http://localhost:8000.) Tj
+ET
+BT
+/F1 8 Tf
+0.5 0.5 0.5 rg
+45.00 30.00 Td
+(Dokumen Spesifikasi Teknis KWT Ariyad Jaya - Halaman 4 dari 5) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 13 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+15 0 obj
+<< /Length 4009 >>
+stream
+BT
+/F2 14 Tf
+0.080 0.450 0.220 rg
+45.00 781.89 Td
+(BAB VI. KESIMPULAN & SARAN PENGEMBANGAN) Tj
+ET
+q
+0.400 0.800 0.500 RG
+1.5 w
+45.00 776.89 m 550.28 776.89 l S
+Q
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 751.89 Td
+(6.1 Kesimpulan Penelitian & Rekayasa Ulang:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 734.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 734.89 Td
+(1. Penyempurnaan Basis Data: Kelemahan desain ERD lama pada skripsi acuan telah berhasil) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 721.89 Td
+(dinormalisasi penuh hingga 3NF, menghasilkan 9 tabel relasional yang fleksibel dan mendukung) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 708.89 Td
+(transaksi multi-item.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 692.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 692.89 Td
+(2. Penyelesaian Masalah Kas Bab I: Kerancuan arus kas antara penjualan produk dan iuran anggota) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 679.89 Td
+(telah diselesaikan tuntas secara digital melalui otomatisasi mutasi kas pada tabel) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 666.89 Td
+(cash_mutations.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 650.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 650.89 Td
+(3. Peningkatan Efisiensi Transaksi: Integrasi Payment Gateway QRIS Dinamis mandiri mempermudah) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 637.89 Td
+(pelanggan membayar via m-banking/e-wallet dengan nominal presisi tanpa salah transfer.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 621.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 621.89 Td
+(4. Kesiapan Operasional: Sistem telah teruji 100% valid melalui Black Box Testing dan dilengkapi) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 608.89 Td
+(dokumentasi siap pakai untuk pengurus KWT.) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+45.00 592.89 Td
+(6.2 Saran Pengembangan Berkelanjutan:) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 575.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 575.89 Td
+(1. Notifikasi WhatsApp Gateway: Mengintegrasikan WhatsApp Business API agar pembeli dan pengurus) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 562.89 Td
+(mendapat notifikasi otomatis saat pesanan masuk atau disetujui.) Tj
+ET
+BT
+/F2 10 Tf
+0.100 0.500 0.200 rg
+49.00 546.89 Td
+(-) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 546.89 Td
+(2. Integrasi Kurir Lokal / Geotagging: Menambahkan kalkulasi ongkos kirim kurir sepeda motor) Tj
+ET
+BT
+/F1 9.5 Tf
+0.150 0.150 0.150 rg
+61.00 533.89 Td
+(lokal berdasarkan jarak tempuh antar desa di Kecamatan Trimurjo.) Tj
+ET
+q
+0.990 0.950 0.950 rg
+0.900 0.300 0.300 RG
+1 w
+45.00 354.89 505.28 161.00 re B
+Q
+q
+0.900 0.300 0.300 RG
+4 w
+45.00 354.89 m 45.00 515.89 l S
+Q
+BT
+/F2 9.5 Tf
+0.900 0.300 0.300 rg
+57.00 501.89 Td
+(LEMBAR VERIFIKASI & CATATAN PENILAIAN DOSEN PENGUJI:) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 485.89 Td
+(Mata Kuliah / Tugas  : Rekayasa Perangkat Lunak / Tugas Besar Pemrograman Web) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 471.89 Td
+(Nama Proyek          : Sistem Informasi Penjualan Produk Sayuran Berbasis Web \(KWT) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 459.89 Td
+(Ariyad Jaya\)) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 445.89 Td
+(Status Validasi      : [  ] Disetujui Penuh     [  ] Disetujui dengan Revisi     [  ]) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 433.89 Td
+(Ditolak) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 419.89 Td
+(Catatan Nilai        :) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 407.89 Td
+(.........................................................................................................................) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 393.89 Td
+(Tanda Tangan Dosen   : .....................................................  ) Tj
+ET
+BT
+/F1 8.5 Tf
+0.150 0.150 0.150 rg
+57.00 381.89 Td
+(Tanggal: ..... / ..... / 2026) Tj
+ET
+BT
+/F1 8 Tf
+0.5 0.5 0.5 rg
+45.00 30.00 Td
+(Dokumen Spesifikasi Teknis KWT Ariyad Jaya - Halaman 5 dari 5) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 15 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000143 00000 n 
+0000000240 00000 n 
+0000000342 00000 n 
+0000000437 00000 n 
+0000000537 00000 n 
+0000005655 00000 n 
+0000005817 00000 n 
+0000012568 00000 n 
+0000012731 00000 n 
+0000017030 00000 n 
+0000017194 00000 n 
+0000028612 00000 n 
+0000028776 00000 n 
+0000032838 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+33002
+%%EOF

@@ -1,0 +1,57 @@
+@extends('layouts.admin')
+@section('title', 'Catat Mutasi Kas')
+@section('page-title', 'Catat Mutasi Kas Manual')
+@section('page-subtitle', 'Input pemasukan kas iuran atau pengeluaran operasional panen')
+@section('content')
+<div class="max-w-xl bg-white rounded-3xl p-8 border border-gray-100 shadow-sm">
+    <form action="{{ route('admin.kas.store') }}" method="POST" class="space-y-4">
+        @csrf
+        <div class="grid grid-cols-2 gap-4">
+            <div>
+                <label class="block text-xs font-bold text-gray-700 uppercase mb-1">Tipe Mutasi</label>
+                <select name="transaction_type" required class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-xs font-bold">
+                    <option value="in">▲ Pemasukan (Uang Masuk)</option>
+                    <option value="out">▼ Pengeluaran (Uang Keluar)</option>
+                </select>
+            </div>
+            <div>
+                <label class="block text-xs font-bold text-gray-700 uppercase mb-1">Tanggal Transaksi</label>
+                <input type="date" name="transaction_date" value="{{ date('Y-m-d') }}" required
+                    class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-xs font-bold">
+            </div>
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase mb-1">Kategori Kas</label>
+            <select name="category" required class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-xs font-bold">
+                <option value="penjualan_produk">Penjualan Produk Sayuran</option>
+                <option value="iuran_anggota">Kas Iuran Anggota Kelompok</option>
+                <option value="operasional">Biaya Operasional Kebun / Panen</option>
+            </select>
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase mb-1">Nominal (Rp)</label>
+            <input type="number" name="amount" required min="1000"
+                class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-xs font-bold"
+                placeholder="Contoh: 50000">
+        </div>
+
+        <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase mb-1">Keterangan Catatan</label>
+            <textarea name="description" rows="3" required
+                class="w-full px-4 py-2 rounded-xl border border-gray-200 text-xs"
+                placeholder="Penjelasan sumber kas atau tujuan pengeluaran..."></textarea>
+        </div>
+
+        <div class="pt-4 flex gap-3">
+            <button type="submit" class="bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-6 py-2.5 rounded-xl text-xs transition">
+                Simpan Catatan Kas
+            </button>
+            <a href="{{ route('admin.kas.index') }}" class="bg-gray-100 hover:bg-gray-200 text-gray-600 font-bold px-5 py-2.5 rounded-xl text-xs transition">
+                Batal
+            </a>
+        </div>
+    </form>
+</div>
+@endsection
